@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://cbl-reactnative-docs.github.io/blog</id>
+    <id>https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/blog</id>
     <title>Couchbase Lite React Native Module Blog</title>
     <updated>2024-01-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://cbl-reactnative-docs.github.io/blog"/>
+    <link rel="alternate" href="https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/blog"/>
     <subtitle>Couchbase Lite React Native Module Blog</subtitle>
-    <icon>http://cbl-reactnative-docs.github.io/img/logo.png</icon>
+    <icon>https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>http://cbl-reactnative-docs.github.io/blog/welcome</id>
-        <link href="http://cbl-reactnative-docs.github.io/blog/welcome"/>
+        <id>https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/blog/welcome</id>
+        <link href="https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/blog/welcome"/>
         <updated>2024-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Insert welcome message to people]]></summary>
         <content type="html"><![CDATA[<p>Insert welcome message to people</p>]]></content>

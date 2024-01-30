@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcbl_reactnative_docs=self.webpackChunkcbl_reactnative_docs||[]).push([[187],{8359:e=>{e.exports=JSON.parse('{"label":"couchbase-lite","permalink":"/blog/tags/couchbase-lite","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
