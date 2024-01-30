@@ -94,15 +94,6 @@ const config: Config = {
         style: 'dark',
         links: [
           {
-            title: 'Reference Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -124,7 +115,7 @@ const config: Config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/cbl-reactnative/',
               },
             ],
           },
