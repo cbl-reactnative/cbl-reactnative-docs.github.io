@@ -10,10 +10,10 @@ const config: Config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://cbl-reactnative.github.io/cbl-reactnative-docs.github.io/',
+  url: 'https://cbl-reactnative.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/cbl-reactnative-docs.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
