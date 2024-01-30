@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcbl_reactnative_docs=self.webpackChunkcbl_reactnative_docs||[]).push([[661],{1892:(e,c,s)=>{s.r(c),s.d(c,{default:()=>d});s(7294);var r=s(512),a=s(1944),t=s(5281),n=s(8790),u=s(6040),l=s(5893);function d(e){return(0,l.jsx)(a.FG,{className:(0,r.Z)(t.k.wrapper.docsPages),children:(0,l.jsx)(u.Z,{children:(0,n.H)(e.route.routes)})})}}}]);

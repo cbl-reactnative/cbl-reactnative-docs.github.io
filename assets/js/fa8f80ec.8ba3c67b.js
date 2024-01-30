@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcbl_reactnative_docs=self.webpackChunkcbl_reactnative_docs||[]).push([[825],{1528:e=>{e.exports=JSON.parse('{"label":"mobile","permalink":"/blog/tags/mobile","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
